@@ -25,9 +25,7 @@ h1 {
 }
 
 h2 {
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #cfcfcf;
+  color: #6f6f6f;
   margin-top: 0;
 }
 
@@ -45,10 +43,6 @@ h4 {
 a {
   text-decoration: none;
   color: #2a7ae2
-}
-
-#milestones a:hover {
-  text-decoration: underline;
 }
 
 ul {
@@ -73,11 +67,6 @@ div .column {
 
 div .column:hover {
   border: 1px solid #cccccc;
-}
-
-#contact {
-  margin-top: 1em;
-  display: block;
 }
 
 #contact-icons {
